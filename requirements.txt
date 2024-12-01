@@ -1,1 +1,5 @@
-pandas
+kaggle 
+kagglehub 
+python-dotenv 
+pandas 
+opendatasets
